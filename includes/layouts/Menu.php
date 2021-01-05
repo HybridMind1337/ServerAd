@@ -46,14 +46,4 @@
         </div>
     </div>
 
-    <div class="card mb-3 shadow-sm">
-        <div class="card-header bg-dark text-light"><i class="fas fa-chart-bar"></i> Обща статистика</div>
-        <div class="card-body text-center">
-            <div class="statusBox">20 сървъри</div>
-            <div class="statusBox">20 сървъри</div>
-            <div class="statusBox">20 сървъри</div>
-            <div class="statusBox">20 сървъри</div>
-        </div>
-    </div>
-
 </div>
