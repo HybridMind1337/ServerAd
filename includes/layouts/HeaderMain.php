@@ -7,7 +7,6 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item"><a class="nav-link" href="<?php echo Config::GET("settings/baseURL"); ?>/home"><i class="fas fa-home"></i> Начало</a></li>
-                <li class="nav-item"><a class="nav-link" href="<?php echo Config::GET("settings/baseURL"); ?>/contacts"><i class="fas fa-envelope"></i> Контакти</a></li>
                 <li class="nav-item"><a class="nav-link" href="<?php echo Config::GET("settings/baseURL"); ?>/allServers"><i class="fas fa-list-ol"></i> Всички сървъри</a></li>
             </ul>
         </div>
